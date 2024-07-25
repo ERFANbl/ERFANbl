@@ -10,14 +10,13 @@
     </a>
 </p>
 
-- 🌱 I’m currently learning **I’m currently learning **Machine learning and Deep learning** and also I'm learning **C#.NET**,becoming **MLOps Engineer**.**
+- 🌱 I’m currently learning **learning **Machine learning and Deep learning** ,becoming **MLOps Engineer**.**
 - I have worked with the **Python, Numpy, Pandas, Matplotlib, sklearn and tensorflow**.
+- I'm also learning **C# and .NET**
 - I have also worked **Qt framework on C++**.
 - I'm familiar with HTML5/CSS3 and I've been working on GNU/Linux🐧 recently.
 
 - 💬 Ask me about **Machine learning and Deep learning.**
-
-- 📫 How to reach me **erfanbalaee95@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
