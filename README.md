@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Erfan Balaee</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate ML enthusiast from Iran</h3>
 
 <p align="center"> 
     <a href="https://www.linkedin.com/in/erfan-balaee-660b6a254/" target="_blank">
@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **learning **Machine learning and Deep learning** ,becoming **MLOps Engineer**.**
 - I have worked with the **Python, Numpy, Pandas, Matplotlib, sklearn and tensorflow**.
-- I'm also learning **C# and .NET**
+- I'm also learning **C# and .NET** With passion for building backend systems.
 - I have also worked **Qt framework on C++**.
 - I'm familiar with HTML5/CSS3 and I've been working on GNU/Linux🐧 recently.
 
